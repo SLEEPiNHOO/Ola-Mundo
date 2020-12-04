@@ -11,5 +11,5 @@
  Não sei se eu vou manter esse perfil, então, aprecie com moderação esse projeto.
  A, mais um detalhe, gosto de usar o Visual Studio Code para fazer meus projetos, já usei o sublime algumas vezes, mas ele é muito simples para o que eu estava precisando, recomendo usar o sublime em máquinas mais simples.
  
- Abraço
+ Então é isso, um abraço
  SLEEPiNHOO
